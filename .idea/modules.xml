@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/common/skinned_lanterns.common.iml" filepath="$PROJECT_DIR$/.idea/modules/common/skinned_lanterns.common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/common/skinned_lanterns.common.main.iml" filepath="$PROJECT_DIR$/.idea/modules/common/skinned_lanterns.common.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/common/skinned_lanterns.common.test.iml" filepath="$PROJECT_DIR$/.idea/modules/common/skinned_lanterns.common.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/fabric-like/skinned_lanterns.fabric-like.iml" filepath="$PROJECT_DIR$/.idea/modules/fabric-like/skinned_lanterns.fabric-like.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/fabric-like/skinned_lanterns.fabric-like.main.iml" filepath="$PROJECT_DIR$/.idea/modules/fabric-like/skinned_lanterns.fabric-like.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/fabric-like/skinned_lanterns.fabric-like.test.iml" filepath="$PROJECT_DIR$/.idea/modules/fabric-like/skinned_lanterns.fabric-like.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/fabric/skinned_lanterns.fabric.main.iml" filepath="$PROJECT_DIR$/.idea/modules/fabric/skinned_lanterns.fabric.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/fabric/skinned_lanterns.fabric.test.iml" filepath="$PROJECT_DIR$/.idea/modules/fabric/skinned_lanterns.fabric.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/quilt/skinned_lanterns.quilt.main.iml" filepath="$PROJECT_DIR$/.idea/modules/quilt/skinned_lanterns.quilt.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/quilt/skinned_lanterns.quilt.test.iml" filepath="$PROJECT_DIR$/.idea/modules/quilt/skinned_lanterns.quilt.test.iml" />
+    </modules>
+  </component>
+</project>
